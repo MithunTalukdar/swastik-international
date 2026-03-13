@@ -13,16 +13,16 @@ Swastik International is a React + Vite website for presenting the company's tra
 
 ```text
 .
-├─ public/
-├─ scripts/
-├─ src/
-│  ├─ assets/
-│  ├─ components/
-│  ├─ lib/
-│  └─ pages/
-├─ index.html
-├─ package.json
-└─ vite.config.js
+|- public/
+|- scripts/
+|- src/
+|  |- assets/
+|  |- components/
+|  |- lib/
+|  `- pages/
+|- index.html
+|- package.json
+`- vite.config.js
 ```
 
 ## Available Scripts
